@@ -1,1 +1,1 @@
-# AppScExb1718
+# academic
