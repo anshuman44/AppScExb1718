@@ -1,1 +1,2 @@
-# AppScExb1718
+# Academic
+# Project consists of various python modules
